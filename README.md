@@ -15,7 +15,7 @@ MAT 500 Project 2
 
 -------------------------------------------
 
-project file and source code in 
+Project file and source code are in 
 "Project" Folder
 
 To open project:
