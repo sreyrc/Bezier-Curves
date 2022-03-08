@@ -43,6 +43,4 @@ Use the Drop-Down menu to select calculation method
 Use the Checkbox to toggle display of shell points - only works when "NLI" is selected
 Drag the Horizontal Slider to adjust the t value (0-1) - only works when "NLI" is selected
 
--------------------------------------------
-
 
