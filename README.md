@@ -4,7 +4,7 @@ The second project for our math class, MAT 500: Curves and Surfaces, at
 DigiPen Institute of Technology. We had to create an application that generates 
 Bezier Curves based on control points that the user places on the screen.
 
-Made in Qt 5.15 using the qcustomplot library
+Made in Qt 5.15.0 using the qcustomplot library
 
 -------------------------------------------
 
