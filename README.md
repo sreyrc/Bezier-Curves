@@ -5,7 +5,7 @@ DigiPen Institute of Technology. We had to create an application that generates
 Bezier Curves based on control points that the user places on the screen.
 
 Curves can be calculated using any of the three methods:
-1. De-Castelejau algorithm or Nested Linear Interpolation (NLI)
+1. De-Casteljau algorithm or Nested Linear Interpolation (NLI)
 2. BB-Form
 3. Midpoint Subdivision
 
