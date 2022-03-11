@@ -11,7 +11,14 @@ Curves can be calculated using any of the three methods:
 
 Made in Qt 5.15.0 using the qcustomplot library
 
--------------------------------------------
+-----------------------
+
+https://user-images.githubusercontent.com/59312045/157783386-0cc7b989-d551-486a-8a05-2a4261858c82.mp4
+
+--------------------
+
+
+
 
 Project file and source code are in 
 "Project" Folder
