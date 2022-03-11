@@ -1,5 +1,9 @@
 # Bezier-Curves
 
+
+https://user-images.githubusercontent.com/59312045/157785898-a41fb559-4726-4cac-a1d3-ceae653a7fd2.mp4
+
+
 The second project for our math class, MAT 500: Curves and Surfaces, at 
 DigiPen Institute of Technology. We had to create an application that generates 
 Bezier Curves based on control points that the user places on the screen.
