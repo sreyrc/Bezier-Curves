@@ -1,4 +1,4 @@
-# Bezier-Curves
+# Bezier Curves
 
 
 https://user-images.githubusercontent.com/59312045/157785898-a41fb559-4726-4cac-a1d3-ceae653a7fd2.mp4
